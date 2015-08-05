@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nanodegree Launcher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_spotify">SPOTIFY STREAMER</string>
+    <string name="button_scores">SCORES APP</string>
+    <string name="button_library">LIBRARY APP</string>
+    <string name="button_buildItBigger">BUILD IT BIGGER</string>
+    <string name="button_xyzReader">XYZ READER</string>
+    <string name="button_capstoneMyOwnApp">CAPSTONE: MY OWN APP</string>
+
+    <string name="toast_spotify">This button will launch Spotify</string>
+    <string name="toast_scores">This button will launch SCORES APP</string>
+    <string name="toast_library">This button will launch the LIBRARY APP</string>
+    <string name="toast_buildItBigger">This button will launch: BUILD IT BIGGER</string>
+    <string name="toast_xyzReader">This button will launch XYZ READER</string>
+    <string name="toast_capstoneMyOwnApp">This button will launch CAPSTONE: MY OWN APP</string>
+
+
+</resources>
